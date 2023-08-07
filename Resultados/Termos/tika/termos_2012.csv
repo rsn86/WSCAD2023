@@ -1,0 +1,24 @@
+"artigo";"PR";"DIST";"COR";"VAR";"HIST";"MEAN";"MODE";"QTLE";"SD";"UN";"OUT";"CV";"SKEW";"KURT";"DVIZ";"VRBL";"EXP";"RND";"SMP";"MC";"PCA";"REG"
+"A Database for Reproducible Computational Research.txt";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;63;0;0;0;0;0
+"Addressing Data-Intensive Computing Problems with the Use of MapReduce on Heterogeneous Environments as Desktop Grid on Slow Links.txt";1;1;0;0;0;4;0;0;0;0;0;0;0;0;0;0;8;0;0;0;0;0
+"Analysing the Impact of MPI-2 Dynamic Process Creation to the Game of Life Problem.txt";0;0;0;0;0;8;0;0;4;0;0;0;0;0;0;0;1;0;0;0;0;0
+"Auto-Tuning Methodology to Represent Landform Attributes on Multicore and Multi-GPU Systems.txt";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;6;20;1;0;0;0;7
+"CPB-ARM -- A New Code Compression Method for Embedded Systems.txt";0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0
+"Compressing Variable-Length Instruction Traces.txt";0;0;0;0;3;7;0;0;0;0;0;0;0;0;2;0;10;0;0;0;0;0
+"Design and Implementation of the PBIW Instruction Decoder in a Softcore Embedded Processor.txt";0;0;0;0;0;13;0;0;0;0;0;0;0;0;0;0;14;0;0;0;0;0
+"Different Approaches for QoS-Aware Web Services Composition Focused on E-Commerce Systems.txt";1;0;0;0;0;2;0;0;3;0;0;0;0;0;0;1;42;1;0;0;0;0
+"Efficient Implementation of Canny Edge Detection Filter for ITK Using CUDA.txt";0;0;0;2;0;0;0;0;0;0;0;0;0;0;3;0;3;0;0;0;0;0
+"Empirical Analysis of Multicore CPU and GPU-Based Parallel Solutions to Sustain Throughput Needed by Scalable Proxy Servers for Protected Videos.txt";0;0;0;0;0;1;0;0;0;0;0;0;0;0;6;0;24;0;0;0;0;0
+"Exploring Dynamic Program Behavior with Frames and Phases.txt";0;0;5;2;0;15;0;0;0;0;0;0;0;0;2;0;7;0;0;0;0;0
+"Exploring Multi-level Parallelism in Atmospheric Applications.txt";0;0;0;0;0;1;0;0;0;0;0;0;0;0;8;0;5;0;0;0;0;0
+"GPU Optimization Techniques Applied to Scale Free Gene Regulatory Networks Based on Threshold Function.txt";1;0;0;0;4;1;0;0;0;0;0;0;0;0;13;0;8;5;0;0;0;0
+"Implementing a Spontaneous Social Network for Managing Ubiquitous Interactions.txt";0;0;0;0;0;1;0;0;1;0;0;0;0;0;9;0;6;0;0;0;0;0
+"Improving the Quality of Service of Fault Detection in Distributed Platforms under Adverse Network Conditions.txt";8;0;0;0;0;11;0;0;1;0;0;0;0;0;2;0;7;4;0;0;0;0
+"Integration of Cloud Services in Support to Tests- Simulations and Knowledge Dissemination with Cluster Environments.txt";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0
+"Optimizing_Simulation_in_Multiprocessor_Platforms_Using_Dynamic-Compiled_Simulation.txt";0;0;0;0;0;10;0;0;1;0;0;0;0;0;1;0;2;0;0;0;0;0
+"Performance Evaluation of Virtual Machine Monitors for Cloud Computing.txt";0;0;0;0;0;3;0;0;1;1;0;0;0;0;2;2;31;0;0;0;0;0
+"Performance Evaluation of Virtualization Technologies for Databases in HPC Environments.txt";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0
+"Problem Oriented Approach to Hardware-Assisted Algorithm Design in C A Case Study for Scheduling- Placement and Routing.txt";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0
+"U-Ductor A Model for Supporting Ubiquitous Chronic Disease Care Management.txt";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;3;0;0;0;0;0
+"Unpopular Addresses Should Not Pollute the Cache.txt";0;0;0;0;0;5;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0
+"Work Stealing on Hybrid Architectures.txt";0;0;0;0;0;1;0;0;0;0;0;0;0;0;6;0;6;1;0;0;0;0

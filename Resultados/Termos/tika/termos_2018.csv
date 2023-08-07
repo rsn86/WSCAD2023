@@ -1,0 +1,36 @@
+"artigo";"PR";"DIST";"COR";"VAR";"HIST";"MEAN";"MODE";"QTLE";"SD";"UN";"OUT";"CV";"SKEW";"KURT";"DVIZ";"VRBL";"EXP";"RND";"SMP";"MC";"PCA";"REG"
+"A Fast Similarity Search kNN for Textual Datasets.txt";1;0;0;0;0;3;0;0;0;0;0;0;0;0;2;0;7;12;44;0;0;0
+"A Fast and Generic GPU-Based Parallel Reduction Implementation.txt";0;0;0;0;0;1;0;0;0;0;0;0;0;0;3;0;10;0;0;0;0;0
+"A GPU-FPGA-Based K-Means Clustering Using a Parameterized Code Generator.txt";0;0;0;0;0;8;0;0;0;0;0;0;0;0;1;0;7;0;0;0;0;0
+"A Methodology for Optimization of Interpreters.txt";0;0;2;0;0;9;0;0;0;0;1;0;0;0;3;0;6;3;0;0;0;0
+"A Parallel Approach of Simulated Annealing Using GPGPU to Solve the Quadratic Assignment Problem.txt";5;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;7;19;0;0;0;0
+"An Interference-Aware Virtual Machine Placement Strategy for High Performance Computing Applications in Clouds.txt";0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;9;7;0;0;0;0
+"Analysis of Optimization Opportunities for Intel Xeon Phi and Intel Xeon Scalable Processors Environments of a Numerical Method for the Biphasic Flow of Fluids in Porous Media.txt";0;0;0;0;3;2;0;0;0;0;0;0;0;0;1;0;7;0;0;0;0;0
+"Analysis of Potential Online Scheduling Improvements by Real-Time Strategy Selection.txt";0;0;0;1;0;9;0;2;0;1;0;0;0;0;1;0;11;0;0;0;0;0
+"Assessing the Computation and Communication Overhead of Linux Containers for HPC Applications.txt";0;1;0;0;0;9;0;0;0;0;0;0;0;0;1;0;31;2;0;0;0;0
+"Automatic Minimization of Execution Costs of SPITS Programs in AWS.txt";0;0;0;0;0;1;0;0;0;0;0;0;0;0;2;0;11;0;0;0;0;0
+"Computational Optimization of Model BRASIL-SR.txt";0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0
+"Evaluation of Timing Side-Channel Leakage on a Multiple-Target Dynamic Binary Translator.txt";1;0;0;0;0;16;0;0;0;0;1;0;0;0;0;0;18;9;0;0;0;0
+"Experimentation and Analysis of Dynamic Checkpoint on Apache Hadoop with Failure Scenarios.txt";0;0;0;0;0;1;0;0;1;0;0;0;0;0;1;0;4;0;0;0;0;0
+"Impact of Memory Approximation on Energy Efficiency.txt";13;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;8;0;1;0;0;0
+"Introducing Drowsy Technique to Cache Line Usage Predictors.txt";0;0;0;0;0;16;5;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0
+"Load Balancing for Iterative Applications in Heterogeneous Architectures.txt";0;0;0;0;0;6;0;0;0;0;0;0;1;0;7;0;8;0;0;0;0;0
+"MParCO A Minimalist Parallel Framework for Combinatorial Optimization Applications.txt";0;0;0;0;0;1;0;0;0;0;0;0;0;0;23;0;11;9;0;0;0;0
+"MapReduce with Components for Processing Big Graphs.txt";0;0;0;0;0;4;2;0;0;0;1;0;0;0;47;0;9;5;0;0;0;0
+"On the Efficiency of Transactional Code Generation A GCC Case Study.txt";1;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;8;0;0;0;0;0
+"Optimizing Geophysics Models Using Thread and Data Mapping.txt";0;0;0;0;0;3;0;0;0;0;0;0;0;0;1;0;6;0;0;0;0;0
+"P-TWDTW Parallel Processing of Time Series Remote Sensing Images Using Manycore Architectures.txt";0;0;0;0;0;1;0;0;0;0;0;0;0;0;2;0;1;0;1;0;0;0
+"Parallel and Distributed Processing Support for a Geospatial Data Visualization DSL.txt";0;0;0;0;0;7;0;0;1;0;0;0;0;0;0;0;21;1;0;0;0;0
+"Performance Evaluation to Provide StaaS to IoT Devices in Fog Computing Environment.txt";0;0;0;0;0;7;0;0;3;0;0;0;0;0;0;0;1;0;0;0;0;0
+"Performance and Energy Consumption Aspects in Migrating Big Data Systems to the Cloud.txt";0;0;0;0;0;2;0;0;0;0;0;0;0;0;14;0;12;0;0;0;0;0
+"Performance and Energy Efficiency Evaluation for HPC Applications in Heterogeneous Architectures.txt";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55;0;2;0;0;0
+"Phase Detection and Analysis among Multiple Program Inputs.txt";0;0;1;0;0;9;0;0;0;0;1;0;0;0;0;0;7;0;0;0;0;0
+"Power Consumption of Parallel Programming Interfaces in Multicore Architectures A Case Study.txt";0;0;0;0;1;2;0;0;2;0;0;0;0;0;2;0;14;1;2;0;0;0
+"Reducing Global Schedulers Complexity through Runtime System Decoupling.txt";0;0;0;0;0;4;0;0;1;0;0;0;0;0;0;0;15;1;0;0;0;0
+"SMCis Scientific Applications Monitoring Tool for HPC Environments.txt";0;0;0;0;0;2;0;0;0;0;0;0;0;0;4;0;14;0;23;0;0;0
+"Samsara Architecture Exploring Situation Awareness in Cloud Computing Management.txt";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;7;0;0;0;0;1
+"Simulators Usage Analysis to Estimate Power Consumption in Cloud Computing Environments.txt";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;28;0;0;0;0;0
+"Towards a High-Performance RISC-V Emulator.txt";0;1;0;0;0;5;1;0;1;0;0;0;0;0;2;0;16;0;0;0;0;0
+"Transactional Boosting on Glasgow Haskell Compiler.txt";0;0;0;0;0;3;0;0;0;0;0;0;0;0;3;0;7;1;0;0;0;0
+"User-Level Transaction Scheduling in Haskell.txt";3;0;0;0;0;2;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0
+"Video7 An Architecture for Storage and Recovery of Streaming Audio and Video in NoSQL Database.txt";0;0;0;0;0;5;0;0;3;0;0;0;0;0;9;0;20;0;0;0;0;0
