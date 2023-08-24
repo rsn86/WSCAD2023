@@ -25,9 +25,9 @@ Repositório do artigo submetido ao WSCAD2023.
  - [ ] Clonar o repositório para o computador local
 	 - [ ] Baixar os artigos
 	- Para isso pode-se executar o script`./Dados/PDF/download.sh [--from <ano>] [--to <ano>] [--ieee]`
-	- **from**: Ano inicial
-	- **to**: Ano final (inclusive)
-	- **ieee**: Baixar também os artigos do IEEE. Utilize somente se sua rede tiver acesso ao IEEE (por ex. rede acadêmica ou proxy http/https devidamente configurado)
+	- **from**: Ano inicial. Default=2000.
+	- **to**: Ano final (inclusive). Default=2022.
+	- **ieee**: Baixar também os artigos do IEEE. Utilize somente se sua rede tiver acesso ao IEEE (por ex. rede acadêmica ou proxy http/https devidamente configurado). Default=N.
 	- ***ano***: Inteiro entre [2000, 2022]
 - No Google
 	 - [ ] Fazer upload de todo o diretório do artigo
