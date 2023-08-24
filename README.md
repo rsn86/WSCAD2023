@@ -16,7 +16,7 @@ Repositório do artigo submetido ao WSCAD2023.
 	 - TXT/ Será gerado durante a etapa de pré-processamento, refletindo a estrutura de pastas dos arquivos PDF
  - /Planilhas/
 	 - PréProcessamento.{ods,xlsx} - Utilizada durante a etapa de pré-processamento, contém a aba de arquivos ignorados e a as expressões regulares para substituição/remoção de textos.
-	 - ListaERs.ods - Utilizada durante a etapa de processamento, contém as listas de ERs utilizadas para extração de termos.
+	 - ListaERs.{ods,xlsx} - Utilizada durante a etapa de processamento, contém as listas de ERs utilizadas para extração de termos.
 	 - ValidaçãoManual.ods - Resultado da validação manual de 40 artigos
  - /Resultados/: Arquivos gerados durante o processamento e análise (.csv, .tex e .svg)
 
