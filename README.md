@@ -1,3 +1,4 @@
+
 # Um estudo sobre menções de métricas computacionais, termos e testes estatísticos em artigos apresentados no WSCAD
 
 ### Autoria: Rodrigo S. Nurmberg , Rogério L. Rizzi , Claudia B. Rizzi, Guilherme Galante, Thiago S. Elias, Gustavo R. Malacarne
@@ -22,13 +23,19 @@ Repositório do artigo submetido ao WSCAD2023.
 
 
 ## Replicação
- - [ ] Clonar o repositório para o computador local
+ - [ ] Clonar o repositório para o computador local ([ZIP](https://github.com/rsn86/WSCAD2023/archive/refs/heads/main.zip))
 	 - [ ] Baixar os artigos
-	- Para isso pode-se executar o script`./Dados/PDF/download.sh [--from <ano>] [--to <ano>] [--ieee]`
-	- **from**: Ano inicial. Default=2000.
-	- **to**: Ano final (inclusive). Default=2022.
-	- **ieee**: Baixar também os artigos do IEEE. Utilize somente se sua rede tiver acesso ao IEEE (por ex. rede acadêmica ou proxy http/https devidamente configurado). Default=N.
-	- ***ano***: Inteiro entre [2000, 2022]
+	- Para isso pode-se executar o script bash`./Dados/PDF/download.sh [--from <ano>] [--to <ano>] [--ieee]`
+		- **from**: Ano inicial. Default=2000.
+		- **to**: Ano final (inclusive). Default=2022.
+		- **ieee**: Baixar também os artigos do IEEE. Utilize somente se sua rede tiver acesso ao IEEE (por ex. rede acadêmica ou proxy http/https devidamente configurado). Default=N.
+		- ***ano***: Inteiro entre [2000, 2022]
+		- Testado no Linux e no Windows (utilizando o Git Bash do [Git for Windows](https://gitforwindows.org/))
+			- Deve funcionar em qualquer ambiente bash com wget ou curl
+	- Alternativamente sugere-se utilizar o gerenciador de downloads [DownloadThemAll!](https://www.downthemall.net/)
+		- Funciona em qualquer navegador baseado no Google Chrome/Chromium, incluindo Microsoft Edge e Brave. Também possui versão para Mozilla Firefox (não testada).
+		- Importar o arquivo *links.txt* de cada edição
+		- **Importante**: Salvar os arquivos nas respectivas subpastas
 - No Google
 	 - [ ] Fazer upload de todo o diretório do artigo
 		 - Ex. Meu Drive/WSCAD2023
