@@ -39,7 +39,14 @@ function should_download_year {
 function download {
     LINKS="${1}"
     OUTPUT_DIR="${2}"
-    wget --no-clobber --continue --show-progress --trust-server-names --content-disposition --input-file="${LINKS}" --directory-prefix="${OUTPUT_DIR}"
+    if which wget > /dev/null 2>&1 ; then
+        wget --no-clobber --continue --show-progress --trust-server-names --content-disposition --input-file="${LINKS}" --directory-prefix="${OUTPUT_DIR}"
+    elif which curl > /dev/null 2>&1 ; then
+        curl --progress-bar --location --remote-header-name --remote-name-all --output-dir "${OUTPUT_DIR}" $(cat "${LINKS}")
+    else
+        echo "ERROR: Couldn't locate wget or curl. Aborting!"
+        exit 1
+    fi
 }
 
 while [[ $# > 0 ]]; do
